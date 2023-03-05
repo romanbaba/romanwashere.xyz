@@ -17,7 +17,7 @@ export default function Home() {
     var status = 'Offline';
     var picture = 'https://cdn.discordapp.com/attachments/1080594562042568715/1081697475724840991/4.png'
 
-    if(profile.activities && profile.activities[0].name === 'Spotify') {
+    if(profile.activities && profile.activities[0] && profile.activities[0].name === 'Spotify') {
       status = `Listening to part ${profile.activities[0].details} made by ${profile.activities[0].state}`
 
       if(profile.status === 'online') {
@@ -27,7 +27,7 @@ export default function Home() {
       } else if(profile.status === 'dnd') {
           statusColor = 'h-4 w-4 rounded-full bg-red-500'
       }
-    } else if(profile.activities && profile.activities[0].name === 'Visual Studio Code') {
+    } else if(profile.activities && profile.activities[0] && profile.activities[0].name === 'Visual Studio Code') {
       status = profile.activities[0].name
       statusColor = 'h-4 w-4 rounded-full bg-blue-500'
     } else if(profile.clients && profile.clients.mobile) {
