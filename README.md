@@ -8,5 +8,8 @@
 - The build process may take a while
 - then you can see your website built by typing `serve ./build` in the terminal!
 
+# Black screen or white screen? 
+- You must [join this server](https://discord.gg/r3H9GyPRN8) for your Discord information to appear.
+
 # Need help?
 - You can reach me on [discord](https://discord.com/users/622350390871982080)!
