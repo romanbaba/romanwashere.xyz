@@ -4,8 +4,7 @@
 - And finally your website is ready for viewing!
 
 # Build the project 
-- First, delete the `/build` folder
-- and type `npm run build` in the terminal
+- type `npm run build` in the terminal
 - The build process may take a while
 - then you can see your website built by typing `serve ./build` in the terminal!
 
