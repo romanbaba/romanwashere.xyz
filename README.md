@@ -13,3 +13,6 @@
 
 # Need help?
 - You can reach me on [discord](https://discord.com/users/622350390871982080)!
+
+# Note 📝
+- This project was taken as a reference from [@Suleywman](https://github.com/Suleywman) ❤
