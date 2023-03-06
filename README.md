@@ -6,7 +6,7 @@
 # Build the project 
 - type `npm run build` in the terminal
 - The build process may take a while
-- then you can see your website built by typing `serve ./build` in the terminal!
+- then you can see your website built by typing `serve -s build` in the terminal!
 
 # Black screen or white screen? 
 - You must [join this server](https://discord.gg/r3H9GyPRN8) for your Discord information to appear.
