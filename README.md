@@ -1,3 +1,7 @@
+<div align='center'>
+  <img src='https://i.imgyukle.com/img/2023/05/09/roimSe.png' width='568' />
+</div>
+
 # Start building your own website with React 🎉
 - go to terminal and type `npm install`
 - then you can show your website as localhost by typing `npm run start`
