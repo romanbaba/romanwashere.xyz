@@ -7,30 +7,30 @@ import { TbBrandNextjs } from 'react-icons/tb';
 
 export default {
     'github': {
-        'username': 'romanwashere'
+        'username': 'romanizm'
     },
     'discord': {
-        'id': '622350390871982080'
+        'id': '341585045397438464'
     },
     'social_media_accounts': [
         {
             'label': 'Github',
-            'to': 'https://github.com/romanwashere',
+            'to': 'https://github.com/romanizm',
             'icon': BsGithub,
         },
         {
             'label': 'Discord',
-            'to': 'https://discord.com/123123',
+            'to': 'https://discord.com/341585045397438464',
             'icon': BsDiscord,
         },
         {
             'label': 'Instagram',
-            'to': 'https://instagram.com/romanwashere',
+            'to': 'https://instagram.com/romanbabba',
             'icon': BsInstagram,
         },
         {
             'label': 'Steam',
-            'to': 'https://instagram.com/romanwashere',
+            'to': 'https://steamcommunity.com/id/tolga_saritas/',
             'icon': BsSteam,
         }
     ],
