@@ -109,7 +109,7 @@ const Home = () => {
                             ))}
                         </div>
                     </div>
-                    {/* Github Repositories */}
+                   {/* Github Repositories */}
                     <div className='container mx-auto pb-8 w-11/12 sm:pb-10 sm:w-9/12 md:w-7/12'>
                         <div className='space-y-2 my-8'>
                             <h3 className='font-semibold text-3xl text-zinc-200'>Repositories</h3>
@@ -131,7 +131,7 @@ const Home = () => {
                                         <div className='rounded-lg cursor-pointer flex flex-col p-4 text-neutral-500 justify-between transition duration-200 bg-zinc-900/30 hover:bg-zinc-900/70 h-full'>
                                             <div className='space-y-2'>
                                                 <h3 className='font-semibold text-violet-500 truncate'>{repo.name}</h3>
-                                                <p className='text-white truncate'>{repo.description}</p>
+                                                <p className='text-zinc-400 line-clamp-2'>{repo.description}</p>
                                             </div>
                                             <div className='mt-4'>
                                                 <ul className='text-zinc-400'>
