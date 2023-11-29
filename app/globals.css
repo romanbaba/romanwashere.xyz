@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800,900');
+
+* {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html, body {
+        @apply bg-zinc-950 text-[#e1e8ed]
+    }
+}

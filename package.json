@@ -1,0 +1,49 @@
+{
+  "name": "romanwashere.xyz",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "next": "14.0.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^4.12.0",
+    "react-scroll": "^1.9.0",
+    "swr": "^2.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-scroll": "^1.8.10",
+    "autoprefixer": "^10.0.1",
+    "daisyui": "^4.4.6",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewgsta/romanwashere.xyz.git"
+  },
+  "keywords": [
+    "nextjs",
+    "tailwindcss"
+  ],
+  "author": "ewgsta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ewgsta/romanwashere.xyz/issues"
+  },
+  "homepage": "https://github.com/ewgsta/romanwashere.xyz#readme"
+}
