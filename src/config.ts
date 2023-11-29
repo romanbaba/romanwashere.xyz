@@ -25,7 +25,7 @@ export default {
         },
         {
             'label': 'Instagram',
-            'to': 'https://instagram.com/romanbabba',
+            'to': 'https://instagram.com/ewgsta',
             'icon': BsInstagram,
         },
         {
