@@ -7,7 +7,7 @@ import { TbBrandNextjs } from 'react-icons/tb';
 
 export default {
     'github': {
-        'username': 'romanizm'
+        'username': 'ewgsta'
     },
     'discord': {
         'id': '341585045397438464'
@@ -15,7 +15,7 @@ export default {
     'social_media_accounts': [
         {
             'label': 'Github',
-            'to': 'https://github.com/romanizm',
+            'to': 'https://github.com/ewgsta',
             'icon': BsGithub,
         },
         {
