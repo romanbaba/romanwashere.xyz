@@ -19,7 +19,7 @@ export const projects: { name: string; description: string; iconURL: string; lin
   },
 ];
 
-export const githubUsername = 'ewgsta';
+export const githubUsername = 'romanbaba';
 export const discordId = '341585045397438464';
 
 export const socialMediaAccounts: { name: string; link: string; iconURL: IconType }[] = [
@@ -35,7 +35,7 @@ export const socialMediaAccounts: { name: string; link: string; iconURL: IconTyp
   },
   {
     name: 'Instagram',
-    link: 'https://instagram.com/ewgsta',
+    link: 'https://www.instagram.com/romanbabba',
     iconURL: BsInstagram,
   },
   {
