@@ -8,8 +8,9 @@ export const metadata: Metadata = {
   robots: 'index, follow',
   viewport: 'width=device-width, initial-scale=1, maximum-scale=1',
   icons: 'https://cdn.discordapp.com/emojis/753954444902924339.png',
+  image: 'https://cdn.discordapp.com/emojis/753954444902924339.png',
   openGraph: {
-    image: 'https://cdn.discordapp.com/emojis/753954444902924339.png',
+    images: 'https://cdn.discordapp.com/emojis/753954444902924339.png',
   },
 };
 
