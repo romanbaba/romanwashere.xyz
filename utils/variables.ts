@@ -9,13 +9,13 @@ export const projects: { name: string; description: string; iconURL: string; lin
     name: 'Haberler',
     description: 'It allows you to view local news via Discord.',
     link: 'https://bit.ly/haberlerbot',
-    iconURL: 'https://cdn.discordapp.com/icons/1147505872625483819/71eca3384e61703feeba4448a633d5ca.png',
+    iconURL: 'https://cdn.discordapp.com/icons/1147505872625483819/a46ed5606785cf436c5c65c320de6cb7.png',
   },
   {
     name: 'Raven',
     description: 'It provides access to free projects and codes.',
     link: 'https://discord.gg/altyapilar',
-    iconURL: 'https://cdn.discordapp.com/icons/1096085223881576549/c2a37851263289188afde2ea135e0665.png',
+    iconURL: 'https://cdn.discordapp.com/icons/1096085223881576549/659a570c79e73521fbebe5fb56dda08f.png',
   },
 ];
 
