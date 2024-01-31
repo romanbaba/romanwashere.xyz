@@ -20,6 +20,6 @@ Demo görüntüsü için [romanwashere.xyz](https://romanwashere.xyz/) adresine 
   
 ## Yazarlar ve Teşekkür
 
-- [@ewgsta](https://www.github.com/ewgsta) tarafından kodlanmış ve tasarlanmıştır, izni dışında hiç bir yerde paylaşılamaz.
+- [@romanbaba](https://www.github.com/romanbaba) tarafından kodlanmış ve tasarlanmıştır, izni dışında hiç bir yerde paylaşılamaz.
 
   
