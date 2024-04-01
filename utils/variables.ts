@@ -19,8 +19,8 @@ export const projects: { name: string; description: string; iconURL: string; lin
   },
 ];
 
-export const githubUsername = 'romanbaba';
-export const discordId = '341585045397438464';
+export const githubUsername = 'Erenzeybek2020';
+export const discordId = '914255269414989825';
 
 export const socialMediaAccounts: { name: string; link: string; iconURL: IconType }[] = [
   {
