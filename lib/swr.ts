@@ -2,7 +2,7 @@
 import useSWR from "swr";
 
 /**
- * @param {string} url 
+ * @param {string} url
  */
 export default function SWR(url: string) {
   return useSWR(url, async (arg) => {
