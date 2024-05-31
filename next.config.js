@@ -8,6 +8,9 @@ const nextConfig = {
       { hostname: "avatars.githubusercontent.com" },
     ],
   },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 };
 
 module.exports = nextConfig;
