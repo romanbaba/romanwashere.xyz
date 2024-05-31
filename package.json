@@ -1,21 +1,31 @@
 {
   "name": "romanwashere.xyz",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --turbo",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
     "axios": "^1.6.2",
+    "classnames": "^2.5.1",
+    "clsx": "^2.1.1",
+    "dayjs": "^1.11.11",
+    "framer-motion": "^11.2.4",
+    "geist": "^1.3.0",
+    "moment": "^2.30.1",
     "next": "14.0.3",
+    "next-nprogress-bar": "^2.3.12",
     "react": "^18",
+    "react-animate-height": "^3.2.3",
     "react-dom": "^18",
-    "react-icons": "^4.12.0",
+    "react-icons": "^5.2.1",
+    "react-intersection-observer": "^9.10.2",
     "react-scroll": "^1.9.0",
-    "swr": "^2.2.4"
+    "swr": "^2.2.4",
+    "tailwind-merge": "^2.3.0"
   },
   "devDependencies": {
     "@types/node": "^20",
@@ -23,10 +33,12 @@
     "@types/react-dom": "^18",
     "@types/react-scroll": "^1.8.10",
     "autoprefixer": "^10.0.1",
-    "daisyui": "^4.4.6",
+    "daisyui": "^4.11.1",
     "eslint": "^8",
     "eslint-config-next": "14.0.3",
     "postcss": "^8",
+    "prettier": "^3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.14",
     "tailwindcss": "^3.3.0",
     "typescript": "^5"
   },
@@ -34,16 +46,16 @@
   "main": "next.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ewgsta/romanwashere.xyz.git"
+    "url": "git+https://github.com/romanbaba/romanwashere.xyz.git"
   },
   "keywords": [
     "nextjs",
     "tailwindcss"
   ],
-  "author": "ewgsta",
+  "author": "romanbaba",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ewgsta/romanwashere.xyz/issues"
+    "url": "https://github.com/romanbaba/romanwashere.xyz/issues"
   },
-  "homepage": "https://github.com/ewgsta/romanwashere.xyz#readme"
+  "homepage": "https://github.com/romanbaba/romanwashere.xyz#readme"
 }

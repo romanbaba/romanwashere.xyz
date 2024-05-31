@@ -15,7 +15,7 @@ Projenin gereksinimi olan paketleri mevcut paket yöneticiniz ile projeye indire
 ```
     
 ## Demo
-Demo görüntüsü için [romanwashere.xyz](https://romanwashere.xyz/) adresine girerek görüntüleyebilirsiniz.
+Demo görüntüsü için [romanwashere.xyz](https://romanbaba.now.sh/) adresine girerek görüntüleyebilirsiniz.
 
   
 ## Yazarlar ve Teşekkür
