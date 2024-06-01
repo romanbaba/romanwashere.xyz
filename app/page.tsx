@@ -67,10 +67,10 @@ export default function Home() {
                       <Image src={`https://cdn.discordapp.com/avatars/${discordData?.discord_user.id}/${discordData?.discord_user.avatar}?size=1024`} alt="romanbaba" height={1024} width={1024} className="rounded-full lg:w-20 lg:h-20 h-34 w-96" />
                       <div className={classNames({
                         "indicator-item indicator-bottom indicator-end transition-all duration-200 badge mb-2 mr-2": true,
-                        "bg-[#747F8D]": discordData.discord_status === "offline",
-                        "bg-[#43B581]": discordData.discord_status === "online",
-                        "bg-[#FAA61A]": discordData.discord_status === "idle",
-                        "bg-[#F04747]": discordData.discord_status === "dnd",
+                        "bg-[#747F8D]": discordData?.discord_status === "offline",
+                        "bg-[#43B581]": discordData?.discord_status === "online",
+                        "bg-[#FAA61A]": discordData?.discord_status === "idle",
+                        "bg-[#F04747]": discordData?.discord_status === "dnd",
                       })}>
                       </div>
                     </>
